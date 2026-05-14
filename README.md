@@ -1,17 +1,17 @@
 <div align="center">
  
-# Saichandanapriya Yelati
+# Gireesh Malleshwaram
  
 **Python Developer → AI/ML Engineer**
 
 Building intelligent document systems, RAG pipelines, and LLM-powered applications.
 
-4 years Python · 1 year AI/ML Engineering · Open to AI/ML Opportunities
+3 years SQL/ETL(SAP-BODS) 1 Year Python · 6 Months AI/ML Engineering · Open to AI/ML Opportunities
  
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/saichandanapriya-yelati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/gireesh-malleshwaram/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:yelatisaichandanapriya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:malleshwaramgireesh@gmail.com)
 
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat-square)](https://huggingface.co/YOUR-PROFILE)
 
@@ -21,9 +21,9 @@ Building intelligent document systems, RAG pipelines, and LLM-powered applicatio
  
 ---
  
-## 👋 Hey, I'm Sai
+## 👋 Hey, I'm Gireesh
  
-I'm a Python developer with 4 years of experience, spending the last year going deep into AI/ML - specifically building RAG systems, LLM pipelines.
+Data engineer with 3+ years in SQL/ETL (SAP-BODS), transitioning into AI/ML — building RAG systems and LLM pipelines using Python.
  
 My day job at TCS taught me how to write production-grade automation at scale (think: validating 10M+ row datasets, building zero-touch ETL pipelines). Now I'm applying that same engineering discipline to AI - building systems that actually work, not just notebooks that demo well.
  
@@ -65,7 +65,6 @@ Status: Live and deployed ✅
  
 ---
  
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/saichandanavishwakarma-crypto/Medical_RAG_system)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?logo=vercel&logoColor=white&style=flat-square)](https://YOUR-DEMO-LINK)
  
@@ -124,7 +123,7 @@ I'm open to:
 
 - 🤝 **Open source AI projects collaborations**
  
-Best way to reach me → **yelatisaichandanapriya@gmail.com**
+Best way to reach me → **malleshwaramgireesh@gmail.com**
  
 Response time: usually within 24 hours.
  
@@ -134,7 +133,7 @@ Response time: usually within 24 hours.
 <div align="center">
  
 <!-- Option 1: GitHub Stats via alternative working instance -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saichandana030400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true%22 alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malleshwaramgireesh2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true%22 alt="GitHub Stats" />
  
 <br/><br/>
  
