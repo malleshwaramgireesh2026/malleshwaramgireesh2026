@@ -126,23 +126,25 @@ I'm open to:
 Best way to reach me → **malleshwaramgireesh@gmail.com**
  
 Response time: usually within 24 hours.
+
  
  
 ## 📊 GitHub Stats
- 
+
 <div align="center">
- 
-<!-- Option 1: GitHub Stats via alternative working instance -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malleshwaramgireesh2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true%22 alt="GitHub Stats" />
- 
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=malleshwaramgireesh2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
 <br/><br/>
+
+</div>
  
  
 <div align="center">
  
 *Building AI systems that work in production, not just in notebooks.*
  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Saichandana030400.Saichandana030400" alt="Visitor Count" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=malleshwaramgireesh2026.malleshwaramgireesh2026" alt="Visitor Count" />
  
 </div>
 
